@@ -29,7 +29,7 @@ Menu Options:
 
 2. Install dependencies:
    ```bash
-   npm install
+   npm install run
    ```
 
 3. Build the application:
